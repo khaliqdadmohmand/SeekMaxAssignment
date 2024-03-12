@@ -1,0 +1,11 @@
+{
+  "status":"success",
+  "user":{
+      "id":100,
+      "firstname":"Khaliq",
+      "lastname":"dad",
+      "email":"abc@gmail.com",
+      "phone":"0123456789",
+      "image":"https://www.gstatic.com/webp/gallery/1.jpg"
+    }
+}
